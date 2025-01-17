@@ -1,0 +1,6 @@
+@TC_API_Offer_Management_HostAddress = http://localhost:5068
+
+GET {{TC_API_Offer_Management_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
